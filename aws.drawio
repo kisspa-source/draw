@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T12:29:46.564Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="E02fx2uct4_E_N6AWLvD" version="21.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-03T13:24:43.857Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="UXWIoKYlWQcx6NQjx9st" version="21.2.7" type="github" pages="2">
   <diagram id="9SGz_3kiO0j2LCHkOoaa" name="AWS">
     <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -188,6 +188,12 @@
             <mxPoint x="140" y="280" as="sourcePoint" />
             <mxPoint x="140" y="210" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="S1Yip-i8Z0zPdECOqKd3-22" value="WBS&lt;br&gt;예산수립" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S1Yip-i8Z0zPdECOqKd3-23" value="WBS&lt;br&gt;예산수립" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="110" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
