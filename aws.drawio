@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T12:10:06.843Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="PppSmB0Vhf_u6gt-5Bu2" version="21.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-03T12:14:20.050Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="hqY5DBAEiYPVlPeEkN-E" version="21.2.7" type="github" pages="2">
   <diagram id="9SGz_3kiO0j2LCHkOoaa" name="AWS">
     <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -123,6 +123,21 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="S1Yip-i8Z0zPdECOqKd3-1" value="ERP&lt;br&gt;(SAP)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="590" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S1Yip-i8Z0zPdECOqKd3-2" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SAP_HANA_on_Azure.svg;" vertex="1" parent="1">
+          <mxGeometry x="90" y="48" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="S1Yip-i8Z0zPdECOqKd3-3" value="영업시스템" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S1Yip-i8Z0zPdECOqKd3-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.103;entryY=1.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="S1Yip-i8Z0zPdECOqKd3-3" target="S1Yip-i8Z0zPdECOqKd3-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="220" as="sourcePoint" />
+            <mxPoint x="380" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
