@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T13:24:43.857Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="UXWIoKYlWQcx6NQjx9st" version="21.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-03T13:31:15.295Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="FP8eRhNqHSDyQzPWtn2h" version="21.2.7" type="github" pages="2">
   <diagram id="9SGz_3kiO0j2LCHkOoaa" name="AWS">
     <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -124,76 +124,97 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="S1Yip-i8Z0zPdECOqKd3-1" value="ERP&lt;br&gt;(SAP)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="41" width="590" height="40" as="geometry" />
+          <mxGeometry x="70" y="110" width="640" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S1Yip-i8Z0zPdECOqKd3-2" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SAP_HANA_on_Azure.svg;" vertex="1" parent="1">
-          <mxGeometry x="80" y="41" width="50" height="25" as="geometry" />
+          <mxGeometry x="70" y="110" width="50" height="25" as="geometry" />
         </mxCell>
         <mxCell id="S1Yip-i8Z0zPdECOqKd3-3" value="영업시스템&lt;br&gt;(수주/프로젝트 관리)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="170" width="120" height="40" as="geometry" />
+          <mxGeometry x="70" y="239" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="S1Yip-i8Z0zPdECOqKd3-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.103;entryY=1.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="S1Yip-i8Z0zPdECOqKd3-3" target="S1Yip-i8Z0zPdECOqKd3-1">
+        <mxCell id="S1Yip-i8Z0zPdECOqKd3-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.094;entryY=1.113;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="S1Yip-i8Z0zPdECOqKd3-3" target="S1Yip-i8Z0zPdECOqKd3-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="220" as="sourcePoint" />
-            <mxPoint x="380" y="170" as="targetPoint" />
+            <mxPoint x="320" y="289" as="sourcePoint" />
+            <mxPoint x="370" y="239" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="S1Yip-i8Z0zPdECOqKd3-7" value="자산관리시스템" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="170" width="120" height="40" as="geometry" />
+          <mxGeometry x="496" y="239" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="S1Yip-i8Z0zPdECOqKd3-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="S1Yip-i8Z0zPdECOqKd3-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.738;entryY=1.063;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="S1Yip-i8Z0zPdECOqKd3-7" target="S1Yip-i8Z0zPdECOqKd3-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="610" y="168" as="sourcePoint" />
-            <mxPoint x="610" y="80" as="targetPoint" />
+            <mxPoint x="600" y="237" as="sourcePoint" />
+            <mxPoint x="545" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="S1Yip-i8Z0zPdECOqKd3-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;dashed=1;" edge="1" parent="1" source="S1Yip-i8Z0zPdECOqKd3-9" target="S1Yip-i8Z0zPdECOqKd3-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="S1Yip-i8Z0zPdECOqKd3-9" value="구매시스템&lt;br&gt;(RFx/PR/PO/GR)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="170" width="120" height="40" as="geometry" />
+          <mxGeometry x="250" y="239" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S1Yip-i8Z0zPdECOqKd3-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.103;entryY=1.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="319.5" y="170" as="sourcePoint" />
-            <mxPoint x="320.5" y="83" as="targetPoint" />
+            <mxPoint x="309.5" y="239" as="sourcePoint" />
+            <mxPoint x="310.5" y="152" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="S1Yip-i8Z0zPdECOqKd3-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="S1Yip-i8Z0zPdECOqKd3-3" target="S1Yip-i8Z0zPdECOqKd3-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="220" as="sourcePoint" />
-            <mxPoint x="380" y="170" as="targetPoint" />
+            <mxPoint x="320" y="289" as="sourcePoint" />
+            <mxPoint x="370" y="239" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="S1Yip-i8Z0zPdECOqKd3-13" value="고객사" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="109" y="322" width="60" height="30" as="geometry" />
+          <mxGeometry x="99" y="391" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S1Yip-i8Z0zPdECOqKd3-15" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/My_Customers.svg;" vertex="1" parent="1">
-          <mxGeometry x="115.36" y="280" width="49.29" height="40" as="geometry" />
+          <mxGeometry x="105.36" y="349" width="49.29" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S1Yip-i8Z0zPdECOqKd3-16" value="협력사" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.outside_sources;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="290" y="281" width="60" height="45" as="geometry" />
+          <mxGeometry x="280" y="350" width="60" height="45" as="geometry" />
         </mxCell>
         <mxCell id="S1Yip-i8Z0zPdECOqKd3-19" value="자산일경우" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="190" width="60" height="30" as="geometry" />
+          <mxGeometry x="410" y="259" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S1Yip-i8Z0zPdECOqKd3-20" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0.122;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="S1Yip-i8Z0zPdECOqKd3-16" target="S1Yip-i8Z0zPdECOqKd3-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="280" as="sourcePoint" />
-            <mxPoint x="464" y="260" as="targetPoint" />
+            <mxPoint x="310" y="349" as="sourcePoint" />
+            <mxPoint x="454" y="329" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="S1Yip-i8Z0zPdECOqKd3-21" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="S1Yip-i8Z0zPdECOqKd3-15" target="S1Yip-i8Z0zPdECOqKd3-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="280" as="sourcePoint" />
-            <mxPoint x="140" y="210" as="targetPoint" />
+            <mxPoint x="130" y="349" as="sourcePoint" />
+            <mxPoint x="130" y="279" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="S1Yip-i8Z0zPdECOqKd3-22" value="WBS&lt;br&gt;예산수립" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="110" width="60" height="30" as="geometry" />
+          <mxGeometry x="130" y="179" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="S1Yip-i8Z0zPdECOqKd3-23" value="WBS&lt;br&gt;예산수립" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="110" width="60" height="30" as="geometry" />
+        <mxCell id="S1Yip-i8Z0zPdECOqKd3-23" value="PR&lt;br&gt;PO&lt;br&gt;GR" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="179" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S1Yip-i8Z0zPdECOqKd3-24" value="ASSET" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="179" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S1Yip-i8Z0zPdECOqKd3-25" value="세금계산서시스템" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="619" y="239" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S1Yip-i8Z0zPdECOqKd3-28" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.928;entryY=1.063;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="S1Yip-i8Z0zPdECOqKd3-25" target="S1Yip-i8Z0zPdECOqKd3-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="664.5" y="227" as="sourcePoint" />
+            <mxPoint x="666" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S1Yip-i8Z0zPdECOqKd3-29" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/fintech-icon/128/13_Tax-128.png" vertex="1" parent="1">
+          <mxGeometry x="638.5" y="334" width="61" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="S1Yip-i8Z0zPdECOqKd3-30" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.418;exitY=0.098;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="S1Yip-i8Z0zPdECOqKd3-29" target="S1Yip-i8Z0zPdECOqKd3-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="663.5" y="355" as="sourcePoint" />
+            <mxPoint x="663.5" y="279" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
