@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-10-25T08:50:00.730Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="514QpPTxdep_6dWjj_ww" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-25T08:52:52.331Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="jGennauqTlI_7GrRpiZL" version="22.0.6" type="github">
   <diagram name="페이지-1" id="SgW8a2UWrjUuQNAxF7Xx">
     <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RGd8JsK0HGNnK1-57gwT-66" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="460" width="160" height="310" as="geometry" />
+        </mxCell>
         <mxCell id="RGd8JsK0HGNnK1-57gwT-25" value="RFI 헤더&lt;br&gt;ESBRIHD" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="160" y="40" width="100" height="40" as="geometry" />
         </mxCell>
@@ -52,25 +55,25 @@
         <mxCell id="RGd8JsK0HGNnK1-57gwT-36" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;현장설명회&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="210" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RGd8JsK0HGNnK1-57gwT-37" value="RFx 헤더&lt;br&gt;ESPRQHD" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="270" y="510" width="100" height="40" as="geometry" />
+        <mxCell id="RGd8JsK0HGNnK1-57gwT-37" value="RFx 헤더&lt;br&gt;ESPRQHD" style="whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="304" y="510" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RGd8JsK0HGNnK1-57gwT-38" value="RFx 품목&lt;br&gt;ESPRQDT" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="270" y="600" width="100" height="40" as="geometry" />
+          <mxGeometry x="304" y="600" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RGd8JsK0HGNnK1-57gwT-39" value="" style="fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="RGd8JsK0HGNnK1-57gwT-37" target="RGd8JsK0HGNnK1-57gwT-38" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="600" y="620" as="sourcePoint" />
-            <mxPoint x="320" y="630" as="targetPoint" />
+            <mxPoint x="634" y="620" as="sourcePoint" />
+            <mxPoint x="354" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RGd8JsK0HGNnK1-57gwT-40" value="RFx 대상업체&lt;br&gt;ESPRQVD" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="440" y="510" width="100" height="40" as="geometry" />
+          <mxGeometry x="474" y="510" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RGd8JsK0HGNnK1-57gwT-41" value="" style="fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" source="RGd8JsK0HGNnK1-57gwT-37" target="RGd8JsK0HGNnK1-57gwT-40" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="470" y="580" as="sourcePoint" />
-            <mxPoint x="470" y="660" as="targetPoint" />
+            <mxPoint x="504" y="580" as="sourcePoint" />
+            <mxPoint x="504" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RGd8JsK0HGNnK1-57gwT-43" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;RFx&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -86,18 +89,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RGd8JsK0HGNnK1-57gwT-46" value="RFx 품목별 업체&lt;br&gt;ESPRVI" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="440" y="600" width="100" height="40" as="geometry" />
+          <mxGeometry x="474" y="600" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RGd8JsK0HGNnK1-57gwT-47" value="" style="fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RGd8JsK0HGNnK1-57gwT-40" target="RGd8JsK0HGNnK1-57gwT-46">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="570" y="609.5" as="sourcePoint" />
-            <mxPoint x="690" y="609.5" as="targetPoint" />
+            <mxPoint x="604" y="609.5" as="sourcePoint" />
+            <mxPoint x="724" y="609.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RGd8JsK0HGNnK1-57gwT-48" value="" style="fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RGd8JsK0HGNnK1-57gwT-38" target="RGd8JsK0HGNnK1-57gwT-46">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="610" y="645" as="sourcePoint" />
-            <mxPoint x="610" y="695" as="targetPoint" />
+            <mxPoint x="644" y="645" as="sourcePoint" />
+            <mxPoint x="644" y="695" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RGd8JsK0HGNnK1-57gwT-49" value="가격평가기준&lt;br&gt;ESPRQEL" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
@@ -122,12 +125,12 @@
           <mxGeometry x="120" y="690" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RGd8JsK0HGNnK1-57gwT-54" value="RFx 컨소시엄&lt;br&gt;ESPQTCS" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="270" y="410" width="100" height="40" as="geometry" />
+          <mxGeometry x="304" y="410" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RGd8JsK0HGNnK1-57gwT-55" value="" style="fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RGd8JsK0HGNnK1-57gwT-37" target="RGd8JsK0HGNnK1-57gwT-54">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="250" y="470" as="sourcePoint" />
-            <mxPoint x="200" y="470" as="targetPoint" />
+            <mxPoint x="284" y="470" as="sourcePoint" />
+            <mxPoint x="234" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RGd8JsK0HGNnK1-57gwT-56" value="" style="fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RGd8JsK0HGNnK1-57gwT-51" target="RGd8JsK0HGNnK1-57gwT-53">
@@ -137,46 +140,49 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RGd8JsK0HGNnK1-57gwT-57" value="원가정보&lt;br&gt;ESPRQTC" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="270" y="690" width="100" height="40" as="geometry" />
+          <mxGeometry x="304" y="690" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RGd8JsK0HGNnK1-57gwT-58" value="" style="fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RGd8JsK0HGNnK1-57gwT-38" target="RGd8JsK0HGNnK1-57gwT-57">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="400" y="680" as="sourcePoint" />
-            <mxPoint x="470" y="680" as="targetPoint" />
+            <mxPoint x="434" y="680" as="sourcePoint" />
+            <mxPoint x="504" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RGd8JsK0HGNnK1-57gwT-59" value="견적서 원가정보&lt;br&gt;ESPQTTC" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="270" y="780" width="100" height="40" as="geometry" />
+          <mxGeometry x="304" y="780" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RGd8JsK0HGNnK1-57gwT-60" value="" style="fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RGd8JsK0HGNnK1-57gwT-57" target="RGd8JsK0HGNnK1-57gwT-59">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="439" y="760" as="sourcePoint" />
-            <mxPoint x="439" y="810" as="targetPoint" />
+            <mxPoint x="473" y="760" as="sourcePoint" />
+            <mxPoint x="473" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RGd8JsK0HGNnK1-57gwT-61" value="견적서 헤더&lt;br&gt;ESPQTHD" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="440" y="690" width="100" height="40" as="geometry" />
+        <mxCell id="RGd8JsK0HGNnK1-57gwT-61" value="견적서 헤더&lt;br&gt;ESPQTHD" style="whiteSpace=wrap;html=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="474" y="690" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RGd8JsK0HGNnK1-57gwT-62" value="견적서 품목&lt;br&gt;ESPQTDT" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="440" y="780" width="100" height="40" as="geometry" />
+          <mxGeometry x="474" y="780" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RGd8JsK0HGNnK1-57gwT-63" value="" style="fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RGd8JsK0HGNnK1-57gwT-61" target="RGd8JsK0HGNnK1-57gwT-62">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="590" y="740" as="sourcePoint" />
-            <mxPoint x="660" y="740" as="targetPoint" />
+            <mxPoint x="624" y="740" as="sourcePoint" />
+            <mxPoint x="694" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RGd8JsK0HGNnK1-57gwT-64" value="" style="fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;dashed=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="RGd8JsK0HGNnK1-57gwT-38" target="RGd8JsK0HGNnK1-57gwT-62">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="420" y="740" as="sourcePoint" />
-            <mxPoint x="420" y="790" as="targetPoint" />
+            <mxPoint x="454" y="740" as="sourcePoint" />
+            <mxPoint x="454" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RGd8JsK0HGNnK1-57gwT-65" value="" style="fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="RGd8JsK0HGNnK1-57gwT-62" target="RGd8JsK0HGNnK1-57gwT-59">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="414" y="860" as="sourcePoint" />
-            <mxPoint x="414" y="910" as="targetPoint" />
+            <mxPoint x="448" y="860" as="sourcePoint" />
+            <mxPoint x="448" y="910" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RGd8JsK0HGNnK1-57gwT-67" value="RFP에서 사용" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="430" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
