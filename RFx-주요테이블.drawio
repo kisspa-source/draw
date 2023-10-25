@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-10-25T08:55:19.702Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="FR-I297G2A7MMt_WNFaV" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-25T08:58:46.088Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="x-pv2G95kn7IHsLvcX-D" version="22.0.6" type="github">
   <diagram name="페이지-1" id="SgW8a2UWrjUuQNAxF7Xx">
     <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RGd8JsK0HGNnK1-57gwT-70" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+          <mxGeometry x="662.75" y="480" width="147.25" height="100" as="geometry" />
+        </mxCell>
         <mxCell id="RGd8JsK0HGNnK1-57gwT-68" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="294.5" y="666" width="156.5" height="170" as="geometry" />
         </mxCell>
@@ -189,6 +192,9 @@
         </mxCell>
         <mxCell id="RGd8JsK0HGNnK1-57gwT-69" value="원가구성시 사용" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="836" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RGd8JsK0HGNnK1-57gwT-71" value="RFx 자동추천시 사용" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="450" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
