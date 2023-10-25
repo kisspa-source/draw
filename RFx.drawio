@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-25T06:41:53.193Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="4k5NzPQt7mO_VKyNY788" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-25T06:42:58.307Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="8szYUFoW3RfJhBrAfJm-" version="22.0.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="909" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="구매요청생성" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="40" y="40" width="120" height="40" as="geometry" />
+          <mxGeometry x="70" y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="M6uK1uLGitnpvI4rZZ1x-0" value="구매요청접수" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="40" width="120" height="40" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry x="260" y="94" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M6uK1uLGitnpvI4rZZ1x-11" value="견적요청" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="253" width="120" height="40" as="geometry" />
+          <mxGeometry x="428" y="253" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="M6uK1uLGitnpvI4rZZ1x-12" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="499" y="587" width="28" height="30" as="geometry" />
