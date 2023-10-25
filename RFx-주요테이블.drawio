@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-25T08:52:52.331Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="jGennauqTlI_7GrRpiZL" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-25T08:53:13.142Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="2PfPELxq7bX4ksvDUmTu" version="22.0.6" type="github">
   <diagram name="페이지-1" id="SgW8a2UWrjUuQNAxF7Xx">
     <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
         <mxCell id="RGd8JsK0HGNnK1-57gwT-37" value="RFx 헤더&lt;br&gt;ESPRQHD" style="whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="304" y="510" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RGd8JsK0HGNnK1-57gwT-38" value="RFx 품목&lt;br&gt;ESPRQDT" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="RGd8JsK0HGNnK1-57gwT-38" value="RFx 품목&lt;br&gt;ESPRQDT" style="whiteSpace=wrap;html=1;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="304" y="600" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RGd8JsK0HGNnK1-57gwT-39" value="" style="fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="RGd8JsK0HGNnK1-57gwT-37" target="RGd8JsK0HGNnK1-57gwT-38" parent="1">
@@ -160,7 +160,7 @@
         <mxCell id="RGd8JsK0HGNnK1-57gwT-61" value="견적서 헤더&lt;br&gt;ESPQTHD" style="whiteSpace=wrap;html=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="474" y="690" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RGd8JsK0HGNnK1-57gwT-62" value="견적서 품목&lt;br&gt;ESPQTDT" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="RGd8JsK0HGNnK1-57gwT-62" value="견적서 품목&lt;br&gt;ESPQTDT" style="whiteSpace=wrap;html=1;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="474" y="780" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RGd8JsK0HGNnK1-57gwT-63" value="" style="fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RGd8JsK0HGNnK1-57gwT-61" target="RGd8JsK0HGNnK1-57gwT-62">
