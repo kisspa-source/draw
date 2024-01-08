@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-27T06:20:24.084Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="MlyMwZdii9qaOHs2x5rQ" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-08T12:27:18.578Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="pSEefjSlX9lV3H6joP3x" version="22.1.17" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1194" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="737" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -281,7 +281,7 @@
         <mxCell id="M6uK1uLGitnpvI4rZZ1x-80" value="Y" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="997" y="246" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="M6uK1uLGitnpvI4rZZ1x-81" value="우선협상" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="M6uK1uLGitnpvI4rZZ1x-81" value="RFP&lt;br&gt;우선협상" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="397" y="749" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="M6uK1uLGitnpvI4rZZ1x-82" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="M6uK1uLGitnpvI4rZZ1x-81" target="M6uK1uLGitnpvI4rZZ1x-39" edge="1">
@@ -373,7 +373,7 @@
             <mxPoint x="979" y="133" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oWNsmeGM8JFj39UJ0xm5-2" value="금액정보 암호화" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="oWNsmeGM8JFj39UJ0xm5-2" value="금액정보 암호화" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="844" y="423" width="116" height="30" as="geometry" />
         </mxCell>
       </root>
